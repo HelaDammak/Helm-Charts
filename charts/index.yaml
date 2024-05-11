@@ -1,3 +1,12 @@
 apiVersion: v1
-entries: {}
-generated: "2024-05-11T20:02:10.2837205+01:00"
+entries:
+  my-chart:
+  - apiVersion: v2
+    created: "2024-05-11T20:15:00.0589319+01:00"
+    description: A Helm chart for deploying a frontend, backend, and database
+    digest: bdbfd493d3353717957ff391f6c7257ca9715f2c2cd1bd4ea6ee85b733923f49
+    name: my-chart
+    urls:
+    - https://raw.githubusercontent.com/yourusername/helm-charts/master/my-chart-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-05-11T20:15:00.054406+01:00"
