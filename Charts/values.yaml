@@ -1,0 +1,7 @@
+applicationName: my-app
+
+backend:
+  image: heladam/backend:latest
+
+frontend:
+  image: heladam/frontend:latest
