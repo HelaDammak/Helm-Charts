@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-chart
+description: A Helm chart for deploying a frontend, backend, and database
+version: 1.0.0
